@@ -1,137 +1,161 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Aviação e afins",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Um pouco de tudo sobre uma das profissões mais incríveis!",
+        "url": "https://www.youtube.com/results?search_query=avioes"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "PARIS | A380 LANDING 4K EXTENDED",
+          "url": "https://www.youtube.com/watch?v=WzxSiEWK3cg"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "A melhor história de aviação de todos os tempos - EP. 149 #AvioeseMusicas",
+          "url": "https://www.youtube.com/watch?v=y3mlN55xz7o"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "O Avião Pousou e Não Tinha NINGUÉM Dentro - EP. 636 #AvioeseMusicas",
+          "url": "https://www.youtube.com/watch?v=kud0VLDheDo"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Um Mistério Perdido na Selva - EP. 535 #AvioeseMusicas",
+          "url": "https://www.youtube.com/watch?v=oRo-HtdjJa8"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Landing at the World's Most Dangerous Airport in the cockpit",
+          "url": "https://www.youtube.com/watch?v=6REKO5AQPGk"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "BOEING 777 LOS ANGELES TAKE OFF",
+          "url": "https://www.youtube.com/watch?v=fcIxPLg_s_M"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "BOEING 777 TAKE OFF FROM PARIS",
+          "url": "https://www.youtube.com/watch?v=fp9VCEgJFvo"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Unbelieveable AIRBUS A380 HARD CROSSWIND LANDING during a STORM at Düsseldorf - 4K",
+          "url": "https://www.youtube.com/watch?v=roS6oFjCDhc"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Bora viajar?",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Quem não gosta de arrumar as malas para conhecer novos lugares e novas culturas não é mesmo?",
+        "url": "https://www.youtube.com/results?search_query=viagens"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Roma - Fontana di Trevi, Pantheon e Piazza Navona - Vlog de viagem na Italia",
+          "url": "https://www.youtube.com/watch?v=w_WZU0T8Qpk"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Vale a pena ir de Londres a Amsterdã - o que fazer? - Vlog de viagem na Europa - Ep.7",
+          "url": "https://www.youtube.com/watch?v=RM_PPi5yU8Y"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "O que fazer em Cancun - Vlog de viagem no México Ep.2",
+          "url": "https://www.youtube.com/watch?v=aDfhOvux0Bo"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Toscana de carro - Greve In Chianti, Montalcino - vlog de viagem na Italia",
+          "url": "https://www.youtube.com/watch?v=FXv5DgWiOBk"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "VISITAMOS UM CAMPO DE CONCENTRAÇÃO - Auschwitz, a pior experiência que já tive!",
+          "url": "https://www.youtube.com/watch?v=dmQ7gEtOAbo"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Investimentos",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Aprenda como investir melhor e alcançar sua independência financeira",
+        "url": "https://www.youtube.com/results?search_query=investimentos"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "JHSF3: JHSF PARTICIPAÇÕES - A EMPRESA MAIS LUXUOSA DA BOLSA! | Empresas da Bolsa #6",
+          "url": "https://www.youtube.com/watch?v=pLsN2wK8ZSY"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "RUMO AO BILHÃO #17 | ZEREI MINHA POSIÇÃO EM UM FII! Ibovespa -16,8% e a carteira +2,55% em 2020?",
+          "url": "https://www.youtube.com/watch?v=Ygcz961MhDk"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "A ARCA: Como INVESTIR pra SOBREVIVER a QUALQUER CRISE (e ainda ganhar dinheiro)",
+          "url": "https://www.youtube.com/watch?v=PPYg9hef0Yg"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "XP Inc. | Conheça a Holding da XP investimentos",
+          "url": "https://www.youtube.com/watch?v=EcYbgR5eac8"
+        },
+        {
+          "titulo": "EGIE3 | Analisando os indicadores da ENGIE | Suno Analítica",
+          "url": "https://www.youtube.com/watch?v=LL7qcOSIWFc"
+        },
+        {
+          "titulo": "ITSA3/ITSA4 - Saiba Tudo Sobre As Ações Da Itaúsa S.A.",
+          "url": "https://www.youtube.com/watch?v=Dw8iUXYyr9w"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "TEDs incríveis",
       "cor": "orange",
+      "link_extra": {
+        "text": "Se inspirar para transformar o mundo",
+        "url": "https://www.youtube.com/results?search_query=ted"
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "This is what happens when you reply to spam email | James Veitch",
+          "url": "https://www.youtube.com/watch?v=_QdPW8JrYzQ"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Bill Gates: A próxima epidemia? Não estamos preparados",
+          "url": "https://www.youtube.com/watch?v=6Af6b_wyiwI"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Inside the mind of a master procrastinator | Tim Urban",
+          "url": "https://www.youtube.com/watch?v=arj7oStGLkU"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Julian Treasure: Como falar de forma que as pessoas queiram ouvir",
+          "url": "https://www.youtube.com/watch?v=eIho2S0ZahI"
+        },
+        {
+          "titulo": "Tom Thum: A orquestra em minha boca",
+          "url": "https://www.youtube.com/watch?v=DFjIi2hxxf0"
+        },
+        {
+          "titulo": "Cameron Russell: Aparência não é tudo. Acreditem, sou uma modelo.",
+          "url": "https://www.youtube.com/watch?v=KM4Xe6Dlp0Y"
+        },
+        {
+          "titulo": "The agony of trying to unsubscribe | James Veitch",
+          "url": "https://www.youtube.com/watch?v=Dceyy0cX6J4"
         }
+
       ]
     },
     {
       "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Hora da diversão!",
+        "url": "https://www.youtube.com/results?search_query=games"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Most Epic 4K Cinematic Game Trailers Part 9 Ultra HD",
+          "url": "https://www.youtube.com/watch?v=YTg4Q600Z0s"
         },
         {
           "titulo": "Assassins Creed Valhalla",
@@ -146,38 +170,50 @@
           "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "THE LAST OF US 2 Trailer 4K (New ULTRA HD)",
+          "url": "https://www.youtube.com/watch?v=b8ErQqpq8XY"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Comer, comer e comer",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Hummmmmmm!... Que delícia!",
+        "url": "https://www.youtube.com/results?search_query=receitas"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "BOLO CHOCOLATE OURO BRANCO: O MAIS PEDIDO | DANI NOCE RECEITA",
+          "url": "https://www.youtube.com/watch?v=tf2cUtBQlw8"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "BOLO NAKED DE BRIGADEIRO E MORANGO SUPER MOLHADO E FOFINHO | DANI NOCE",
+          "url": "https://www.youtube.com/watch?v=R1MEnVnbjrk"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "BOLO MILKSHAKE DE OVOMALTINE | DANI NOCE",
+          "url": "https://www.youtube.com/watch?v=wvdeWI-Zp84"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "PASTEL DE FEIRA | BIGODE SOZINHO NA COZINHA | DANI NOCE RECEITA",
+          "url": "https://www.youtube.com/watch?v=cQfa7Cb1Vss"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "COMO FAZER PALHA ITALIANA (receita tradicional fácil passo a passo) - Receitas de Minuto #84",
+          "url": "https://www.youtube.com/watch?v=3ubyuy-QytI"
+        },
+        {
+          "titulo": "EMPADÃO DE FRANGO SUPER CREMOSO E FÁCIL",
+          "url": "https://www.youtube.com/watch?v=F2npcDqkY5g"
+        },
+        {
+          "titulo": "O PÃO COM OVO DE 24 MILHÕES DE VIEWS | Receitas Internéticas | Mohamad Hindi | #FiqueemCasa #Comigo",
+          "url": "https://www.youtube.com/watch?v=IilGL6HVR6U"
+        },
+        {
+          "titulo": "Picanha – Como cortar e peso ideal | Netão! Bom Beef #1",
+          "url": "https://www.youtube.com/watch?v=YEy5qNO2qzw"
         }
       ]
     }
