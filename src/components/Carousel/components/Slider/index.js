@@ -16,16 +16,26 @@ const Container = styled.ul`
     height: 30px;
     transform: initial;
     &:before {
+      font-family: "Font Awesome 5 Free"; 
       font-size: 30px;
+      color: var(--primary);
+      font-weight: 900; 
     }
   }
   
   .slick-prev {
     left: 0;
+    &:before {
+      content: "\f053";
+    }
   }
+
   .slick-next {
-    right: 16px;
-  }
+    right: 10px;
+    &:before {
+      content: "\f054";
+    }
+}
 `;
 
 export const SliderItem = styled.li`
