@@ -1,0 +1,10 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome" : "Avião e afins",
+            "descricao" : "Um pouco de tudo sobre uma das profissões mais incríveis!",
+            "cor" : "#6BD1FF"
+        }
+    ]
+}
